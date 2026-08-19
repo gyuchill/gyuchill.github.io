@@ -155,7 +155,7 @@ nav a:hover {
 .hero-grid {
   display: grid;
 
-  grid-template-columns: 250px 1fr;
+  grid-template-columns: 280px 1fr;
 
   gap: 55px;
 
@@ -164,14 +164,14 @@ nav a:hover {
 
 
 .profile-image {
-  width: 250px;
+  width: 280px;
 }
 
 
 .profile-image img {
-  width: 250px;
+  width: 280px;
 
-  height: auto;
+  height: 360;
 
   object-fit: cover;
 
