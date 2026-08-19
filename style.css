@@ -460,7 +460,30 @@ nav a:hover {
   font-size: 14px;
 }
 
+.education-tags {
+  display: flex;
 
+  flex-wrap: wrap;
+
+  gap: 7px;
+
+  margin-top: 14px;
+}
+
+
+.education-tags span {
+  padding: 4px 9px;
+
+  border: 1px solid #e5e5e2;
+
+  border-radius: 3px;
+
+  background: #f7f7f5;
+
+  color: #777;
+
+  font-size: 11px;
+}
 
 /* =====================================================
    PUBLICATIONS
