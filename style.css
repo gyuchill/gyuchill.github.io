@@ -327,6 +327,8 @@ nav a:hover {
   height: 62px;
 
   object-fit: contain;
+
+  align-self: center;
 }
 
 
