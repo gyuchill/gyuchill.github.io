@@ -318,6 +318,8 @@ nav a:hover {
   align-items: center;
 
   justify-content: flex-start;
+
+  align-self: center;
 }
 
 
