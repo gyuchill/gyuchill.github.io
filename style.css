@@ -863,6 +863,20 @@ footer p {
     gap: 5px;
   }
 
+  .project-year {
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+
+    align-items: center;
+
+    white-space: nowrap;
+  }
+
+  .project-year span:last-child {
+    display: inline;
+    text-align: left;
+  }  
 
   footer {
     flex-direction: column;
