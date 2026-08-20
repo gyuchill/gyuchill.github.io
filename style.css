@@ -644,15 +644,19 @@ nav a:hover {
   border-bottom: 1px solid var(--line);
 }
 
-
 .project-year {
   color: var(--accent);
-
+  
   font-family: monospace;
-
+  
   font-size: 13px;
 }
 
+.project-year span:last-child {
+  display: block;
+  
+  text-align: right;
+}
 
 .project-body h3 {
   margin: 0 0 8px;
